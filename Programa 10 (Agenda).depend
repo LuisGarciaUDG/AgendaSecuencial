@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1423801795 source:c:\users\luis\dropbox\comparti2\inco\programación\programa 10 (agenda)\main.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	<conio.h>
+
